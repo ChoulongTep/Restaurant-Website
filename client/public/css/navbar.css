@@ -1,38 +1,34 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter&family=Pangolin&family=Roboto&family=Ubuntu&display=swap');
-* {
-    margin: 0px;
-    padding: 0px;
-}
+@import url("https://fonts.googleapis.com/css2?family=Inter&family=Pangolin&family=Roboto&family=Ubuntu&display=swap");
 
 .navbar-container {
-    display: flex;
-    justify-content: left;
-    align-items: center;
-    background-color: #2B2A4C;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  background-color: #2b2a4c;
 }
 
 #title {
-    padding: 15px;
-    text-decoration: none;
-    font-size: 20pt;
-    font-family: 'Inter', sans-serif;
-    letter-spacing: 2px;
-    font-weight: 600;
-    color: #B31312;
+  padding: 15px;
+  text-decoration: none;
+  font-size: 20pt;
+  font-family: "Inter", sans-serif;
+  letter-spacing: 2px;
+  font-weight: 600;
+  color: #b31312;
 }
 
 .navbar-container nav ul li {
-    list-style: none;
-    display: inline;
-    float: left;
+  list-style: none;
+  display: inline;
+  float: left;
 }
 
 .navbar-container nav ul li a {
-    padding: 15px;
-    text-decoration: none;
-    font-size: 12pt;
-    font-weight: 600;
-    font-family: 'Roboto', sans-serif;
-    letter-spacing: 2px;
-    color: #EA906C;
+  padding: 15px;
+  text-decoration: none;
+  font-size: 12pt;
+  font-weight: 600;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 2px;
+  color: #ea906c;
 }
