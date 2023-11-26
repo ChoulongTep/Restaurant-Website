@@ -1,0 +1,12 @@
+.contents-container {
+    background-color: #BE3144;
+    height: 92.1vh;
+}
+
+.contents-container h1 {
+    color: #F4EAE0;
+    text-align: center;
+    font-size: 50pt;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
