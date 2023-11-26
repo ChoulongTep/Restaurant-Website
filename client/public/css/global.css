@@ -6,5 +6,6 @@
 
 .contents-container {
   background-color: #be3144;
-  height: 100vh;
+  height: auto;
+  padding-bottom: 2rem;
 }
